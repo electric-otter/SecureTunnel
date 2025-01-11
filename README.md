@@ -1,0 +1,2 @@
+# Opening
+open ipconnectivity.py
