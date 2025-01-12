@@ -16,7 +16,7 @@ class VPNClient:
 
         self.server_var = tk.StringVar()
         self.server_options: Dict[str, List[str]] = {
-            "USA": ["New York", "Los Angeles", "Chicago"],
+            "USA": ["Illinois", "Los Angeles", "Chicago"],
             "UK": ["London", "Manchester", "Birmingham"],
             "Canada": ["Toronto", "Vancouver", "Montreal"],
             "Australia": ["Sydney", "Melbourne", "Brisbane"],
